@@ -1,7 +1,7 @@
 name: Cat-WolfChannelMultiPlugin
 version: 1.0
 main: me.catwolf.multiplugin.CatWolfChannelMultiPlugin
-api-version: '26.2'
+api-version: '26'
 commands:
   belohnung:
       description: Holt deine Cat-WolfChannel Belohnung ab.
